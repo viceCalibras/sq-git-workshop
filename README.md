@@ -21,3 +21,5 @@ gitGraph
    checkout main
    merge develop
 ```
+
+Change 1.
