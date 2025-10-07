@@ -24,3 +24,5 @@ gitGraph
 
 Change 1.
 Change 2.
+
+# Main changes
